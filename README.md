@@ -5,7 +5,7 @@ Aspiring **Software Engineer** pursuing a **Bachelor of Science in Software Engi
 
 ## 🏆 Achievements
 - 🥉 **3rd Place Winner** - [ITU Generation Connect Global Youth Summit Hackathon (2022)](https://www.itu.int/generationconnect/)
-- 👩‍💻 **Alumna** - [African Girls Can Code Initiative (AGCCI)]([https://en.unesco.org/themes/girls-women-stem/african-girls-can-code](https://africa.unwomen.org/en/where-we-are/eastern-and-southern-africa/liaison-office-to-au-and-uneca/african-girls-can-code-initiative-agcci))
+- 👩‍💻 **Alumna** - [African Girls Can Code Initiative (AGCCI)](https://africa.unwomen.org/en/where-we-are/eastern-and-southern-africa/liaison-office-to-au-and-uneca/african-girls-can-code-initiative-agcci)
 
 ## 💻 Skills & Tools
 ### 🖥️ Programming
