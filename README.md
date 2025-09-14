@@ -1,37 +1,35 @@
 # 👋 Hi there! I'm Deborah Ingabire
 
 ## 🧑‍💻 About Me
-Aspiring **Software Engineer** pursuing a **Bachelor of Science in Software Engineering**. Passionate about leveraging **technology to solve real-world problems** and making a positive impact.
+Aspiring **Software Engineer** pursuing a **Bachelor of Science in Software Engineering**.  
+Passionate about **building impactful web applications** and combining **coding, design, and problem-solving** to empower communities through technology.  
 
 ## 🏆 Achievements
-- 🥉 **3rd Place Winner** - [ITU Generation Connect Global Youth Summit Hackathon (2022)](https://www.itu.int/generationconnect/)
-- 👩‍💻 **Alumna** - [African Girls Can Code Initiative (AGCCI)](https://africa.unwomen.org/en/where-we-are/eastern-and-southern-africa/liaison-office-to-au-and-uneca/african-girls-can-code-initiative-agcci)
+- 🥉 **3rd Place** – [ITU Generation Connect Global Youth Summit Hackathon (2022)](https://www.itu.int/generationconnect/)  
+- 👩‍💻 **Alumna** – [African Girls Can Code Initiative (AGCCI)](https://africa.unwomen.org/en/where-we-are/eastern-and-southern-africa/liaison-office-to-au-and-uneca/african-girls-can-code-initiative-agcci)  
 
-## 💻 Skills & Tools
-### 🖥️ Programming
-- 🐍 **PL/SQL**
-- 🌐 **HTML, CSS, Tailwind CSS, JavaScript**
+## 🛠️ Skills & Tools
+- 🌐 **React, JavaScript, HTML, CSS, Tailwind CSS**  
+- 🐍 **PL/SQL**  
+- 💻 **C++**  
+- ⚙️ **Git, GitHub, VS Code, npm, Webpack**  
+- 🎨 **Figma, Canva**  
 
-### 🎨 Design
-- 🖌️ **Figma, Canva**
-
-### 🔍 Currently Exploring
-- 🚀 **Full-stack Development**
-- 🗄️ **Database Management**
+## 🌱 Currently Learning
+- 🚀 **Full-stack Development**  
+- 🔄 **State Management (Redux)**  
+- 🗄️ **Database Management**  
+- ⚡ **Backend Basics with Node.js**  
+- ☕ **Java Programming**  
 
 ## 🚀 Current Journey
-- 📚 **Enrolled in TheGym Software Development Trainee Program**
-- 🧑‍🎨 **Developing Web Design and Front-end Development Skills**
-
-## 🌍 Passion
-Combining **coding, design, and problem-solving** to **drive impact and empower communities through technology**.
+- 📚 **Enrolled in TheGym Software Development Trainee Program**  
+- 🎨 **Growing Web Design and Front-end Development Skills**  
 
 ## 📫 Let's Connect
-- 💼 **LinkedIn:** [Ingabire Deborah](https://www.linkedin.com/in/ingabire-deborah-a15807236/)
-- 🧑‍💻 **GitHub:** [GitHub Profile](https://github.com/your-username)
+- 💼 **LinkedIn:** [Ingabire Deborah](https://www.linkedin.com/in/ingabire-deborah-a15807236/)  
+- 🧑‍💻 **GitHub:** [GitHub Profile](https://github.com/your-username)  
 
 ---
 
 🌱 **Always eager to learn, grow, and collaborate!**
-
-
