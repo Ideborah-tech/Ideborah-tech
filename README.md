@@ -1,88 +1,102 @@
-<!-- Profile README for Ideborah-tech -->
+<!-- GitHub Profile README | Deborah Ingabire -->
 
 <div align="center">
 
-# DEBORAH INGABIRE
+# Deborah Ingabire
 
-### Software Engineering Student · Full-Stack Developer · Teaching Assistant
+### Software Engineer in Progress | Full-Stack Development | Teaching Assistant
 
-Building practical software, thoughtful user experiences, and reliable solutions.
+I design and build software solutions with a focus on clear structure, practical value, and thoughtful user experiences.
 
-[LinkedIn](https://www.linkedin.com/in/ingabire-deborah-a15807236/) · [GitHub](https://github.com/Ideborah-tech)
+[LinkedIn](https://www.linkedin.com/in/ingabire-deborah-a15807236/) &nbsp; · &nbsp; [GitHub](https://github.com/Ideborah-tech)
 
 </div>
 
 ---
 
-## About
+## Professional Profile
 
-I am a Software Engineering student interested in building useful applications from idea to implementation. My work and learning span frontend development, backend engineering, database design, and software design principles.
+I am a Software Engineering student with hands-on experience across web development, backend programming, relational databases, and software design. I enjoy taking a problem from its requirements through data modelling and implementation to a working application.
 
-I enjoy breaking down complex problems, writing maintainable code, and turning requirements into working software. Alongside development, I support programming and web technology students as a teaching assistant.
+My approach combines structured problem-solving, continuous learning, and an interest in building software that is understandable, maintainable, and useful. As a Teaching Assistant, I also support students as they develop their programming and web development skills.
 
-## Technical Toolkit
+## Technical Capabilities
 
-**Frontend**
+### Frontend Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222222)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+- HTML5, CSS3, and JavaScript
+- React
+- Tailwind CSS
+- Responsive user interface development
+- UI/UX design with Figma
 
-**Backend & Programming**
+### Backend Development
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+- Java and Spring Boot
+- REST API development
+- Hibernate and JDBC
+- C# and .NET fundamentals
+- Object-oriented programming and MVC architecture
 
-**Databases & Developer Tools**
+### Databases & Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+- PostgreSQL, SQL, and PL/SQL
+- Relational database design
+- Git and GitHub
+- Postman
+- Visual Studio and Visual Studio Code
 
-## Areas of Practice
+## Engineering Interests
 
-- **Full-stack application development** — connecting responsive interfaces to backend services and data.
-- **Backend engineering** — building Java and Spring Boot applications, REST APIs, and persistence layers.
-- **Database development** — relational data modelling, SQL, PostgreSQL, JDBC, and Hibernate.
-- **Software design** — object-oriented programming, MVC, design patterns, and maintainable application structure.
-- **Teaching and collaboration** — explaining programming concepts, supporting learners, and working through technical problems.
+**Application Development**  
+Building end-to-end applications by connecting user interfaces, backend logic, and persistent data.
 
-## Selected Recognition
+**Backend & API Engineering**  
+Developing structured server-side applications, REST endpoints, and data access layers.
 
-**Third Place — ITU Generation Connect Global Youth Summit Hackathon, 2022**
+**Database Design**  
+Creating relational models and implementing reliable data operations using SQL and ORM technologies.
 
-Recognized as part of a team competing in a global youth technology hackathon.
+**Software Design & Quality**  
+Applying object-oriented principles, design patterns, and maintainable coding practices to solve software problems.
 
-**African Girls Can Code Initiative (AGCCI)**
+**Technical Communication**  
+Breaking down programming concepts, collaborating with others, and supporting learners through practical instruction.
 
-Alumna of an initiative focused on building digital and coding skills among young women.
+## Recognition & Development
 
-**TheGym Software Development Trainee Program**
+**Third Place — ITU Generation Connect Global Youth Summit Hackathon (2022)**  
+Recognized in an international youth technology hackathon.
 
-Practical software development training and continued growth through hands-on work.
+**African Girls Can Code Initiative (AGCCI)**  
+Alumna of a programme supporting digital skills and coding education for young women.
 
-## Current Direction
+**TheGym Software Development Trainee Program**  
+Developing practical software engineering skills through structured training and hands-on work.
 
-I am continuing to strengthen my full-stack engineering skills, with particular attention to backend development, application security, database design, and building complete, dependable applications.
+## Current Focus
 
-I value consistent practice, clear architecture, and technology that solves real problems.
+I am advancing my full-stack development capabilities, with particular interest in:
+
+- Building complete applications with React and Spring Boot.
+- Strengthening backend architecture and API security.
+- Improving database design and application persistence.
+- Applying software engineering principles to real-world projects.
+
+## Beyond the Code
+
+I value curiosity, consistency, collaboration, and sharing knowledge. I believe good software is not only about making something work; it is about making it reliable, understandable, and valuable to the people who use it.
 
 ---
 
 <div align="center">
 
-### LET'S CONNECT
+## Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/ingabire-deborah-a15807236/) · [GitHub](https://github.com/Ideborah-tech)
+For professional connections, collaboration, or conversations about software development:
 
-<sub>Thoughtful engineering. Continuous growth. Practical impact.</sub>
+**[Connect on LinkedIn](https://www.linkedin.com/in/ingabire-deborah-a15807236/)** &nbsp; · &nbsp; **[Explore my GitHub projects](https://github.com/Ideborah-tech)**
+
+<sub>SOFTWARE · PROBLEM-SOLVING · CONTINUOUS IMPROVEMENT</sub>
 
 </div>
